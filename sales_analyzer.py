@@ -12,8 +12,6 @@ with open("sales_data.csv", "r") as file:
 
 print(f"Loaded {len(sales_data)} sales records.")
 
-# I don't know what to label this in relation to "group scores by subject from the other example"
-
 """Step 2. Analyze and Group Data"""
 
 total_revenue = 0.0
